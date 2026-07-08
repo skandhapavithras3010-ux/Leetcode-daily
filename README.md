@@ -17,5 +17,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1929-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
