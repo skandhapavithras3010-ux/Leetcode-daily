@@ -1,10 +1,19 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        s1 = sorted(s)
-        t1 = sorted(t)
-        if s1 == t1:
-            return True
-        return False
-
-        # IN BUILT PYTHON FUNCTION USAGE
-        
+        if len(s) != len(t):
+            return False
+        count = {}
+        # Counting the characters in s
+        for c in s:
+            if c in count:
+                count[c] += 1
+            else:
+                count[c] = 1
+        # Removing the characters using t
+        for c in t:
+            if c not in count:
+                return False
+            count[c] -= 1
+            if count[c] < 0:
+                return False
+        return True
