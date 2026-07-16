@@ -7,6 +7,5 @@ class Solution:
                 clean += ch.lower()
         
         final = clean[::-1]
-        if clean == final:
-            return True
-        return False                
+        return clean == final
+           
