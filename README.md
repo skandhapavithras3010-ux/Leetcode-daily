@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
