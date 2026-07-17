@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -47,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
