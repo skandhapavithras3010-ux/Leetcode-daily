@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0164-maximum-gap](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0217-contains-duplicate) |
 | [1572-matrix-diagonal-sum](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1929-concatenation-of-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -56,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0392-is-subsequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
