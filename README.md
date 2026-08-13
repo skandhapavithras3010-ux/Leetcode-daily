@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1929-concatenation-of-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0059-spiral-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
