@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0867-transpose-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1929-concatenation-of-array) |
 ## Array
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0542-01-matrix/) | Medium |
+| [0867-transpose-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0867-transpose-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1929-concatenation-of-array) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0059-spiral-matrix-ii) |
 | [0542-01-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0542-01-matrix/) | Medium |
+| [0867-transpose-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 | Problem Name | Difficulty |
