@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0542-01-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1470-shuffle-the-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1929-concatenation-of-array) |
