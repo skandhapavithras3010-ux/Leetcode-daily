@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Matrix
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
