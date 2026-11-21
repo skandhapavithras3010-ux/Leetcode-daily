@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0542-01-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0542-01-matrix/) | Medium |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -133,4 +136,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
