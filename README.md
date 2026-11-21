@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0088-merge-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0542-01-matrix/) | Medium |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
