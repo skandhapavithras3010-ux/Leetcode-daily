@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0164-maximum-gap) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0169-majority-element/) | Easy |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0283-move-zeroes/) | Easy |
@@ -147,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0169-majority-element/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
