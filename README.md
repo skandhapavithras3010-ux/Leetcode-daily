@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0283-move-zeroes/) | Easy |
 | [0542-01-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0542-01-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/skandhapavithras3010-ux/Leetcode-daily/tree/master/0392-is-subsequence) |
 ## Bucket Sort
